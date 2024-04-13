@@ -1,0 +1,142 @@
+
+---Downloaded files---
+The import files for: Home v1 to 6 (LearnPress) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/websekolah-wordpress
+Data file = C:\xampp\htdocs\websekolah-wordpress/wp-content/themes/edubin/admin/demo/learnpress/content.xml
+Widget file = C:\xampp\htdocs\websekolah-wordpress/wp-content/themes/edubin/admin/demo/learnpress/widget_data.wie
+Customizer file = C:\xampp\htdocs\websekolah-wordpress/wp-content/themes/edubin/admin/demo/learnpress/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "s-2" (Media)
+[ERROR] Failed to import "ev1" (Media)
+[ERROR] Failed to import "ev2" (Media)
+[ERROR] Failed to import "ev3" (Media)
+[ERROR] Failed to import "ev4" (Media)
+[ERROR] Failed to import "ev6" (Media)
+[ERROR] Failed to import "13438" (Media)
+[ERROR] Failed to import "e2" (Media)
+[ERROR] Failed to import "t-1" (Media)
+[ERROR] Failed to import "t-2" (Media)
+[ERROR] Failed to import "t-3" (Media)
+[ERROR] Failed to import "t-4" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "t-1" (Media)
+[ERROR] Failed to import "t-2" (Media)
+[ERROR] Failed to import "t-3" (Media)
+[ERROR] Failed to import "e6" (Media)
+[ERROR] Failed to import "e7" (Media)
+[ERROR] Failed to import "e9" (Media)
+[ERROR] Failed to import "t-5" (Media)
+[ERROR] Failed to import "t-6" (Media)
+[ERROR] Failed to import "t-7" (Media)
+[ERROR] Failed to import "t-8" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "lpc3" (Media)
+[ERROR] Failed to import "fb2" (Media)
+[ERROR] Failed to import "sld9" (Media)
+[ERROR] Failed to import "sl80" (Media)
+[ERROR] Failed to import "b021" (Media)
+[ERROR] Failed to import "b621" (Media)
+[ERROR] Failed to import "2554" (Media)
+[ERROR] Failed to import "bl638" (Media)
+[ERROR] Failed to import "te8" (Media)
+[ERROR] Failed to import "e476" (Media)
+[ERROR] Failed to import "slider613" (Media)
+[ERROR] Failed to import "b-n1" (Media)
+[ERROR] Failed to import "b-n3" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "b-n4" (Media)
+[ERROR] Failed to import "b-n5" (Media)
+[ERROR] Failed to import "b-n6" (Media)
+[ERROR] Failed to import "b-n7" (Media)
+[ERROR] Failed to import "b-n9" (Media)
+[ERROR] Failed to import "bl-n2" (Media)
+[ERROR] Failed to import "bn-10" (Media)
+[ERROR] Failed to import "testi_1" (Media)
+[ERROR] Failed to import "t21" (Media)
+[ERROR] Failed to import "t43" (Media)
+[ERROR] Failed to import "t52" (Media)
+[ERROR] Failed to import "t82" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "f92" (Media)
+[ERROR] Failed to import "t82.jpg" (Media)
+[ERROR] Failed to import "testi_1.jpg" (Media)
+[ERROR] Failed to import "f92.jpg" (Media)
+[ERROR] Failed to import "372" (Media)
+[ERROR] Failed to import "BL021" (Media)
+[ERROR] Failed to import "BL032" (Media)
+[ERROR] Failed to import "BL91" (Media)
+[ERROR] Failed to import "BL101" (Media)
+[ERROR] Failed to import "BL192" (Media)
+[ERROR] Failed to import "BL821" (Media)
+[ERROR] Failed to import "BL989" (Media)
+[ERROR] Failed to import "BL1005" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "lpc3-N" (Media)
+[ERROR] Failed to import "SL632" (Media)
+[ERROR] Failed to import "SLU1" (Media)
+[ERROR] Failed to import "ULA723" (Media)
+[ERROR] Failed to import "CU321" (Media)
+[ERROR] Failed to import "CU543" (Media)
+[ERROR] Failed to import "CU2436" (Media)
+[ERROR] Failed to import "CHa53" (Media)
+[ERROR] Failed to import "HOQ0" (Media)
+[ERROR] Failed to import "ONB42" (Media)
+[ERROR] Failed to import "MK732" (Media)
+
+
+---Importing widgets---
+(Edubin) Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Edubin Recent Post - Recent Posts - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Popular Tags - Widget already exists
+
+(Edubin) Footer 1 : 
+
+Image - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+(Edubin) Footer 2 : 
+
+Navigation Menu - Feature Links - Widget already exists
+
+(Edubin) Footer 3 : 
+
+Navigation Menu - Support - Widget already exists
+
+(Edubin) Footer 4 : 
+
+Text - Contact Us - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
