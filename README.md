@@ -1,5 +1,18 @@
 # websitesekolah-wordpress
 websitesekolah-wordpress
+
+untuk database set saja
+user : root
+pass :
+databasenya : db_websekolah
+
+login admin
+username : admin
+Pass : matang313101
+
+Thema wordpress ``edubin_package_v8.13.22`` <br>
+Versi Wordpress ``wordpress 6.5.2``<br>
+Versi PHP ``7.4.27``
 <br>
 Tampilan Beranda
 <br>
