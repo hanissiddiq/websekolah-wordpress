@@ -1,0 +1,1105 @@
+
+---Downloaded files---
+The import files for: Home v1 to 6 (LearnPress) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/websekolah-wordpress
+Data file = C:\xampp\htdocs\websekolah-wordpress/wp-content/themes/edubin/admin/demo/learnpress/content.xml
+Widget file = C:\xampp\htdocs\websekolah-wordpress/wp-content/themes/edubin/admin/demo/learnpress/widget_data.wie
+Customizer file = C:\xampp\htdocs\websekolah-wordpress/wp-content/themes/edubin/admin/demo/learnpress/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "s-2" (Media)
+[ERROR] Failed to import "ev1" (Media)
+[ERROR] Failed to import "ev2" (Media)
+[ERROR] Failed to import "ev3" (Media)
+[ERROR] Failed to import "ev4" (Media)
+[ERROR] Failed to import "ev6" (Media)
+[ERROR] Failed to import "13438" (Media)
+[ERROR] Failed to import "e2" (Media)
+[ERROR] Failed to import "t-1" (Media)
+[ERROR] Failed to import "t-2" (Media)
+[ERROR] Failed to import "t-3" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "t-4" (Media)
+[ERROR] Failed to import "t-1" (Media)
+[ERROR] Failed to import "t-2" (Media)
+[ERROR] Failed to import "t-3" (Media)
+[ERROR] Failed to import "e6" (Media)
+[ERROR] Failed to import "e7" (Media)
+[ERROR] Failed to import "e9" (Media)
+[ERROR] Failed to import "t-5" (Media)
+[ERROR] Failed to import "t-6" (Media)
+[ERROR] Failed to import "t-7" (Media)
+[ERROR] Failed to import "t-8" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "lpc3" (Media)
+[ERROR] Failed to import "fb2" (Media)
+[ERROR] Failed to import "sld9" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "sl80" (Media)
+[ERROR] Failed to import "b021" (Media)
+[ERROR] Failed to import "b621" (Media)
+[ERROR] Failed to import "2554" (Media)
+[ERROR] Failed to import "bl638" (Media)
+[ERROR] Failed to import "te8" (Media)
+[ERROR] Failed to import "e476" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "slider613" (Media)
+[ERROR] Failed to import "b-n1" (Media)
+[ERROR] Failed to import "b-n3" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "b-n4" (Media)
+[ERROR] Failed to import "b-n5" (Media)
+[ERROR] Failed to import "b-n6" (Media)
+[ERROR] Failed to import "b-n7" (Media)
+[ERROR] Failed to import "b-n9" (Media)
+[ERROR] Failed to import "bl-n2" (Media)
+[ERROR] Failed to import "bn-10" (Media)
+[ERROR] Failed to import "testi_1" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "t21" (Media)
+[ERROR] Failed to import "t43" (Media)
+[ERROR] Failed to import "t52" (Media)
+[ERROR] Failed to import "t82" (Media)
+[ERROR] Failed to import "f92" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "t82.jpg" (Media)
+[ERROR] Failed to import "testi_1.jpg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "f92.jpg" (Media)
+[ERROR] Failed to import "372" (Media)
+[ERROR] Failed to import "BL021" (Media)
+[ERROR] Failed to import "BL032" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "BL91" (Media)
+[ERROR] Failed to import "BL101" (Media)
+[ERROR] Failed to import "BL192" (Media)
+[ERROR] Failed to import "BL821" (Media)
+[ERROR] Failed to import "BL989" (Media)
+[ERROR] Failed to import "BL1005" (Media)
+[ERROR] Failed to import "lpc3-N" (Media)
+[ERROR] Failed to import "SL632" (Media)
+[ERROR] Failed to import "SLU1" (Media)
+[ERROR] Failed to import "ULA723" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "CU321" (Media)
+[ERROR] Failed to import "CU543" (Media)
+[ERROR] Failed to import "CU2436" (Media)
+[ERROR] Failed to import "CHa53" (Media)
+[ERROR] Failed to import "HOQ0" (Media)
+[ERROR] Failed to import "ONB42" (Media)
+[ERROR] Failed to import "MK732" (Media)
+[ERROR] Failed to import "MAT32" (Media)
+[ERROR] Failed to import "BL921" (Media)
+[ERROR] Failed to import "KH914" (Media)
+[ERROR] Failed to import "BL932" (Media)
+[ERROR] Failed to import "LP732" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[ERROR] Failed to import "t-6-5.jpg" (Media)
+[ERROR] Failed to import "t-3-1-5.jpg" (Media)
+[ERROR] Failed to import "t-3-6.jpg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import "Preview Course": Invalid post type lp_course
+[ERROR] Failed to import "media-cleaner.6.4.6.zip" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_tag Affiliate
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import course_category Business
+[WARNING] Failed to import course_tag Development
+[WARNING] Failed to import course_tag Education
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Finance
+[WARNING] Failed to import course_tag Food
+[WARNING] Failed to import course_tag General
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import course_tag Learning
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import course_category Lifestyle
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import course_category Programing
+[WARNING] Failed to import course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import course_tag Recipe
+[WARNING] Failed to import course_category Recipe
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import course_tag Teaching
+[WARNING] Failed to import course_category Technology
+[WARNING] Failed to import course_tag Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import course_tag Website
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import "Preview Course": Invalid post type lp_course
+[ERROR] Failed to import "media-cleaner.6.4.6.zip" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+(Edubin) Blog Sidebar : 
+
+Search - No Title - Imported
+Edubin Recent Post - Recent Posts - Imported
+Categories - Categories - Imported
+Tag Cloud - Popular Tags - Imported
+
+(Edubin) Footer 1 : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+
+(Edubin) Footer 2 : 
+
+Navigation Menu - Feature Links - Imported
+
+(Edubin) Footer 3 : 
+
+Navigation Menu - Support - Imported
+
+(Edubin) Footer 4 : 
+
+Text - Contact Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
